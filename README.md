@@ -1,3 +1,3 @@
-##README for Javascript without jQuery
+## README for Javascript without jQuery
 
-####LearnWebCode ~ JavaScript in half and hour (without jQuery)
+#### LearnWebCode ~ JavaScript in half and hour (without jQuery)
