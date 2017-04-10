@@ -1,0 +1,17 @@
+body {
+  width: 800px;
+  background-color: lightgrey;
+  margin: 0 auto;
+}
+#add-new-item {
+  color: white;
+  font-size: 18px;
+  background-color: blue;
+  padding: 15px;
+  border-radius: 8px;
+}
+li {
+  font-size: 20px;
+  padding: 10px 0;
+
+}
